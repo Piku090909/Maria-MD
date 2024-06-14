@@ -1,8 +1,8 @@
 {
-    "name": "Maria-MD",
+    "name": "À𝖑è𝖝 𝕻ì𝖐ù",
     "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
-    "repository": "https://github.com/AYUSH-PANDEY023/Maria-Md",
-    "logo": "https://telegra.ph/file/351133422917a8bd7d776.jpg",
+    "repository": "https://github.com/Piku090909/Maria-MD",
+    "logo": "https://telegra.ph/file/83b9c9d01c9c571501d8e.mp4",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
       "env": {
        "OWNER_NAME": {
